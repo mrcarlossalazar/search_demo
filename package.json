@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "algoliasearch": "^4.23.3",
+    "bootstrap": "^5.3.3",
+    "instantsearch.js": "^4.70.0",
+    "stream-json": "^1.8.0"
+  }
+}
